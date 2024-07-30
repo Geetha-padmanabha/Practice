@@ -1,2 +1,2 @@
-# FST-M1
-FST-M1
+# FST
+FST
